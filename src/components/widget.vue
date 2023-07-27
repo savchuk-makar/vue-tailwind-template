@@ -1,0 +1,1 @@
+<script>(function () { var widget = document.createElement('script'); widget.dataset.pfId = 'b3141740-8f52-48af-8185-40b9e2a0b4c9'; widget.src = 'https://widget.profeat.team/script/widget.js?id=b3141740-8f52-48af-8185-40b9e2a0b4c9&now='+Date.now(); document.head.appendChild(widget); })()</script>
